@@ -243,4 +243,8 @@ Ensure that the Java web application is accessible at and the all the data will 
 
 http://<Public_EC2_IP>:8080/LoginWebApp
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/7f798f54-4b4c-4a41-b3a2-5c10b0ba620b" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/13bececb-283a-4dfe-8a93-a397b1bb3d63" />
+
 
